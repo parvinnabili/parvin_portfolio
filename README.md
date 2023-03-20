@@ -1,6 +1,6 @@
 # Parvin's Portfolio
 
-# [Project 1 - Database Modelling](/github.com/parvinnabili/project1.git)
+# [Project 1 - Database Modelling](https://github.com/parvinnabili/project1/blob/e26c9fd39f57cfd917c77b53d1524a6d9a4b3d71/README.md)
 
 This is a project I did for one of my courses as a part of my Master's degree, where I had to build an entire database system from scratch and run some queries to derive insights. For this particual project, I built a database system for a bank to manage its financial services for individual and corporate clients.  The ultimate goal of the project was to design a robust and scalable database system that can provide accurate and timely information for decision-making and customer service purposes.
 
