@@ -8,3 +8,12 @@ This is a project I did for one of my courses as a part of my Master's degree, w
 * The database was designed to allow clients to open multiple bank accounts and conduct various transactions through them, including loans and deposits.
 * The database supports the bank's organizational structure, with several branches, each with multiple departments and employees in different categories.
 * Database system is designed for various users, each with varying levels of access and privileges.
+
+# [Project 2 - Analysis of UN Environmental Data](https://github.com/parvinnabili/Project2.git)
+
+For this project, I analyzed the UN data about CO2 emissions. The dataset is entitled, Carbon dioxide (CO2) Emissions without Land Use, Land-Use Change and Forestry (LULUCF), in kiloton CO2 equivalent. The goal of the project was to explore and analyze the CO2 emissions data to identify trends and patterns, and insights that can inform policymakers and stakeholders about the impact of CO2 emissions on climate change and the environment
+
+* Conducted data analysis on carbon dioxide (CO2) emissions data from the United Nations (UN) for the years 1990-2020
+* Retrieved the dataset from the UN Datamart and identified its structure, which included individual country data with a single annual CO2 data point for each year
+* Used Pandas and Matplotlib to manipulate and visualize the data for different countries
+* Plotted the CO2 emissions data for selected countries and identified trends and patterns in the data
