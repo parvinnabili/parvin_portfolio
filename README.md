@@ -17,3 +17,15 @@ For this project, I analyzed the UN data about CO2 emissions. The dataset is ent
 * Retrieved the dataset from the UN Datamart and identified its structure, which included individual country data with a single annual CO2 data point for each year
 * Used Pandas and Matplotlib to manipulate and visualize the data for different countries
 * Plotted the CO2 emissions data for selected countries and identified trends and patterns in the data
+
+# [Project 3 - Apple Stock Price Analysis](https://github.com/parvinnabili/project3.git)
+
+The objective of the project was to analyze the stock price data for Apple and identify any patterns or trends that could be useful for making investment decisions. To do this, the project utilized various tools and techniques in Python, including Pandas, Matplotlib, and SciPy. For this project, I used the dataset extracted from Kaggle. 
+
+Some of the key aspects of the project include: 
+* Defining the length of the window and the aggregator to apply to the data.
+* Using nbagg functionality in Matplotlib to zoom and pan the data.
+* Performing various built-in aggregate calculations and defining custom functions to apply to the DataFrame.
+* Working with multiple columns in a DataFrame simultaneously to gain a holistic view of the data.
+* Plotting the rolling mean for different window types and lengths to see how the data changes over time.
+* Using tight.layout to expand the plotting area and fill in excess white space to enhance the visualization of the data.
